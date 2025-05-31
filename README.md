@@ -24,7 +24,7 @@
    [PDF](https://github.com/user-attachments/files/20137718/06.-.pdf) | [PPT](https://github.com/user-attachments/files/20137728/06.-.pptx)
 
 7. **لایه شبکه – صفحه کنترل (Network Layer - Control Plane)**
-   [PDF](./path/to/file7.pdf) | [PPT](./path/to/file7.pptx)
+   [PDF](https://github.com/user-attachments/files/20533061/07.-.pdf) | [PPT](https://github.com/user-attachments/files/20533064/07.-.pptx)
 
 8. **لایه پیوند داده و شبکه‌های محلی (Data Link Layer & LANs)**
    [PDF](./path/to/file8.pdf) | [PPT](./path/to/file8.pptx)
