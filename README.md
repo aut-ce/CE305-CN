@@ -27,4 +27,5 @@
    [PDF](https://github.com/user-attachments/files/20533061/07.-.pdf) | [PPT](https://github.com/user-attachments/files/20533064/07.-.pptx)
 
 8. **لایه پیوند داده و شبکه‌های محلی (Data Link Layer & LANs)**
-   [PDF](./path/to/file8.pdf) | [PPT](./path/to/file8.pptx)
+   [PDF](https://github.com/user-attachments/files/20545108/08.-.pdf) | [PPT](https://github.com/user-attachments/files/20545110/08.-.pptx)
+
